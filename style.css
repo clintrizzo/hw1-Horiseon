@@ -108,12 +108,11 @@ p {
     /*added float selector to condense code*/
 }
 
-.search-engine-optimization h2,
-.online-reputation-management h2,
-.social-media-marketing h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    /*moved selectors to be 1*/
+    /*moved selectors to be 1
+    changed selector name*/
 }
 
 .benefits {
@@ -131,12 +130,11 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3 {
+h3 {
     margin-bottom: 10px;
     text-align: center;
-    /*moved h3 style sheets together*/
+    /*moved h3 style sheets together
+    changed selector name*/
 }
 
 .benefit-lead img {
