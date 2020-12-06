@@ -14,5 +14,5 @@
     - All images have ALT tags as the company specified.
 
 #   images of the HTML code
-![alt text] (readme images\htmlfile0.png)
+![alt text] (htmlfile0.png)
 
