@@ -137,12 +137,13 @@ h3 {
     changed selector name*/
 }
 
-.right-box {
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-    /*condensed img selectors
-    changed selector name*/
+    /*condensed img selectors*/
 }
 
 .footer {
