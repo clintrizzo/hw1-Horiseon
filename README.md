@@ -18,9 +18,11 @@
 -   Once I figured out what I needed to move around I began to move around the files and condense the files that didn't need to be in there own style sheet.
 -   the main style sheet that stuck out to me was that there was an image inside one of the style sheets so I moved that over to my HTML file to keep it in order with the rest of the images. The other thing I did that image was added an alt tag and width and height and took it out of the style sheet.
 
-# images
--   I made a seperate file on my repo for the code and comments. The HTML is labeled html, CSS is labeled css, and to see a snap shot of the website there are three different images for that in the file as well.
-
+# images for html
+[html-0](htmlfile0.png)
+[html-1](htmlfile1.png)
+[html-2](htmlfile2.png)
+[html-3](htmlfile3.png)
 # link to the deployed website
 [deployed-link](https://clintrizzo.github.io/hw1-Horiseon/#online-reputation-management)
 
