@@ -19,10 +19,10 @@
 -   the main style sheet that stuck out to me was that there was an image inside one of the style sheets so I moved that over to my HTML file to keep it in order with the rest of the images. The other thing I did that image was added an alt tag and width and height and took it out of the style sheet.
 
 # images for html
-[html-0](htmlfile0.png)
-[html-1](htmlfile1.png)
-[html-2](htmlfile2.png)
-[html-3](htmlfile3.png)
+1. ![html-0](htmlfile0.png)
+2. ![html-1](htmlfile1.png)
+3. ![html-2](htmlfile2.png)
+4. ![html-3](htmlfile3.png)
 # link to the deployed website
 [deployed-link](https://clintrizzo.github.io/hw1-Horiseon/#online-reputation-management)
 
