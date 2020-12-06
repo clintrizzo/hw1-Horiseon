@@ -1,5 +1,8 @@
 # hw1-Horiseon
 
+# link to the deployed website
+[deployed-link](https://clintrizzo.github.io/hw1-Horiseon/#online-reputation-management)
+
 # Building the project
 - I built this project to make this website more interactive for the users that go to this site. This website uses HTML and CSS. See below on the steps I took to get this project running. 
   - -   **for the website if you click the links at the top of the page they will direct you to the area your looking for on the page.**
@@ -18,12 +21,10 @@
 -   Once I figured out what I needed to move around I began to move around the files and condense the files that didn't need to be in there own style sheet.
 -   the main style sheet that stuck out to me was that there was an image inside one of the style sheets so I moved that over to my HTML file to keep it in order with the rest of the images. The other thing I did that image was added an alt tag and width and height and took it out of the style sheet.
 
-# images for html
-1. ![html-0](htmlfile0.png?raw=true)
-2. ![html-1](htmlfile1.png)
-3. ![html-2](htmlfile2.png)
-4. ![html-3](htmlfile3.png)
-# link to the deployed website
-[deployed-link](https://clintrizzo.github.io/hw1-Horiseon/#online-reputation-management)
+# images
+-   The images ended up being to large so I created a seperate folder on the repository for the working steps of the HTML and CSS. I labeled them accordingly so they can be told apart. I also added three image snapshots of the deployed website.
+
+ 
+
 
 
